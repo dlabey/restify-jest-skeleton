@@ -1,0 +1,32 @@
+{
+  "name": "Name",
+  "version": "0.0.0",
+  "description": "",
+  "main": "v1/server.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node ./v1/server.js"
+  },
+  "repository": {
+    "type": "",
+    "url": ""
+  },
+  "contributors": [
+    {
+      "name": "",
+      "email": ""
+    }
+  ],
+  "license": "UNLICENSED",
+  "private": true,
+  "dependencies": {
+    "restify": "^3.0.3"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-jshint": "^1.11.2",
+    "gulp-nodemon": "^2.0.3",
+    "gulp-watch": "^4.3.4",
+    "jest-cli": "^0.4.18"
+  }
+}
